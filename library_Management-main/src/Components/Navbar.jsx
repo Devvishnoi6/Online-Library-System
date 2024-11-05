@@ -7,7 +7,7 @@ const Navbar = () => {
         <nav className="w-full">
             <div className="bg-white bg-opacity-65 font-Poppins flex justify-between items-center p-5 sticky top-0">
                    
-            <h2 className="font-Oswald font-base text-2xl text-black"><a href="https://github.com/Devvishnoi6/To-Do-vite-react-assignment" target= "_blank" >🔗 GITHUB</a></h2>
+            <h2 className="font-Oswald font-base text-2xl text-black"><a href="https://github.com/Devvishnoi6/Online-Library-System" target= "_blank" >🔗 GITHUB</a></h2>
                     <h2 className="font-Oswald font-base text-2xl text-black">e-Library</h2>
                     <ul className="hidden md:flex items-center gap-5 text-medium font-base cursor-pointer">
                         <Link to='/'><li>Home</li></Link>
